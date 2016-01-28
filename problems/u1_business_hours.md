@@ -35,8 +35,6 @@ Selectra’s administrator would like to schedule business hours to include a on
 
 Anki’s administrator (based in the U.S.) would like to schedule business hours for their three call centers based in Florida, the Philippines, and Guatemala. 
 
-Ziprecruiter admins would like to schedule holiday hours in advance. This includes both reduced hours due as well as business closures depending on the holiday.
-
 Using the background information we provide in the following section and taking into consideration the layout/structuring of Talkdesk, please present us with a solution that will allow customers to specify more flexible business hours.
 
 ## Background Information
